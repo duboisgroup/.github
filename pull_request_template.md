@@ -1,3 +1,8 @@
+<!--
+Título del PR:  tipo(ámbito): descripción (DEV-###)   p. ej. fix(claims): archivado sin intercambiar name y code (DEV-281)
+Rama:           tipo/DEV-###-slug
+Convenciones completas: https://github.com/duboisgroup/.github#convenciones-de-nombres
+-->
 ## Descripción
 Breve resumen de los cambios introducidos.
 
